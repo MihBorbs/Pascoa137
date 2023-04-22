@@ -1,0 +1,12 @@
+Piramide de Teste Classica --> se refere a uma visão do Back End
+Enxergar uma Piramide de Teste onde fica a camada de UI é visão de Front End
+
+Usar uma massa de teste --> DDT = Data Driven Test= Teste Direcionado por Dados
+
+TDD = Test Driven Development= Desenvolvimento Direcionado por Testes
+
+
+é possivel criar os testes antes do código
+qual o benificio?
+- ganha-se tempo, dinheiro, produtividade
+- medir o progresso do projeto (Software funcionando é uma medida de progresso)
